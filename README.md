@@ -10,5 +10,5 @@ Check out [my personal blog](https://robertomanfreda.github.io) ("empty" for now
 I always try to write innovative software, so if we want to collaborate we do something special. Out of the core.  
 If you like my projects you could become a supporter, from [here](https://www.paypal.me/robertomanfreda).  
 
-Greetins,  
+Greetings,  
 and happy coding.
